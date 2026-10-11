@@ -1,6 +1,6 @@
 ## Medical Device Design Knowledge Graph
 
-Hofstra University · Fred DeMatteis School of Engineering and Applied Science
+PI: Roche C. de Guzman, Ph.D. (Hofstra University)
 
 We build open, queryable infrastructure for medical device design — linking FDA regulatory, safety and postmarket data that is otherwise published in separate, unconnected systems, and teaching engineering students to design with that evidence in hand.
 
